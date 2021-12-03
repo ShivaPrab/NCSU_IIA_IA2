@@ -1,1 +1,1 @@
-The compendium is a list of resources compiled through time for my personal education, I decided to open it to the public so that other people can learn as well.
+CONTENT FOR THIS COURSE IS MEANT SOLELY FOR THIS COURSE. Sharing content (links to videos, slides, code, etc.) without consent of the instructor is prohibited.
